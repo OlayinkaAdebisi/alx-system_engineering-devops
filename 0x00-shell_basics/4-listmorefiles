@@ -1,3 +1,3 @@
-[master 0a1ff07] i love numbers
- 2 files changed, 3 insertions(+), 2 deletions(-)
- mode change 100644 => 100755 0x00-shell_basics/5-listfilesdigitonly
+[master a345497] welcome
+ 2 files changed, 5 insertions(+), 3 deletions(-)
+ create mode 100755 0x00-shell_basics/6-firstdirectory

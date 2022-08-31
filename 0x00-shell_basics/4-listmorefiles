@@ -1,2 +1,2 @@
-[master 899cc79] Hidden files
- 1 file changed, 1 insertion(+), 1 deletion(-)
+#!/bin/bash
+ls -la

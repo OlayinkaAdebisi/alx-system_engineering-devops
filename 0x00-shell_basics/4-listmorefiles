@@ -1,2 +1,3 @@
-[master 2811f14] Hidden files
- 1 file changed, 2 insertions(+), 2 deletions(-)
+[master d7f982d] i love numbers
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+ create mode 100644 0x00-shell_basics/5-listfilesdigitonly

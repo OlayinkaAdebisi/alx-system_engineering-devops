@@ -1,2 +1,2 @@
-# where am i
+#!/bin/bash
 echo $(pwd)

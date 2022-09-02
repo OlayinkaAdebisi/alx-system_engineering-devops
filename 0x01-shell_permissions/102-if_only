@@ -1,5 +1,2 @@
 #!/bin/bash
-if ["$(ls -l)" = "guillaum"]
-then
-	echo$(chown hello betty)
-fi
+if $(ls -l) = "guillaume" then echo$(chown hello betty)

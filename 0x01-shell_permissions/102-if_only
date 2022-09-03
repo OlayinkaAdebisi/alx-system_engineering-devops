@@ -1,2 +1,2 @@
 #!/bin/bash
-if [ "$(ls -l)" == "guillaume" ] then "$(chown betty:betty hello)" fi
+if [ "$(ls -l)" == "guillaume" ] then "$(chown betty:root hello)" fi

@@ -1,2 +1,2 @@
 #!/bin/bash
-if $(ls -l) = "betty" then $(chown hello betty)
+if $(ls -l) == "guillaume" then $(chown hello betty)

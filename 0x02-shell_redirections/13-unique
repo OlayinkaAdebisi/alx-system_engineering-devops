@@ -1,2 +1,2 @@
 #!/bin/bash
-cat goat | sort |uniq -u
+sort |uniq -u
